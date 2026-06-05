@@ -145,10 +145,15 @@ El tratamiento de la información personal se rige por la **Ley 1581 de 2012** d
 
 ## 👤 Autor
 
-**Elimelec** — Universidad del Magdalena
+**Elimelec Ricardo** — Universidad del Magdalena
 
 - 📧 [elimelecjoser@gmail.com](mailto:elimelecjoser@gmail.com)
 - 📱 [+57 321 815 4994](tel:+573218154994) · [WhatsApp](https://wa.me/573218154994)
+
+**Juan Orozco** — Universidad del Magdalena
+
+- 📧 [juanorozcop75@gmail.com](mailto:juanorozcop75@gmail.com)
+- 📱 [+57 324 443 6617](tel:+573244436617) · [WhatsApp](https://wa.me/573244436617)
 
 ---
 
