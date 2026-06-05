@@ -16,7 +16,7 @@ Aplicación web de salud y bienestar pensada para **acompañarte, escucharte y o
 
 ---
 
-## 📖 Acerca del proyecto
+##  Acerca del proyecto
 
 **VitalTech** (presentada en la interfaz como **CuidAR**) es una herramienta web desarrollada por estudiantes de la **Universidad del Magdalena** como aporte a la garantía del derecho a la salud. Su propósito es que cualquier persona pueda:
 
