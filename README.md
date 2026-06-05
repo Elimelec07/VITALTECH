@@ -143,7 +143,7 @@ El tratamiento de la información personal se rige por la **Ley 1581 de 2012** d
 
 ---
 
-## 👤 Autor
+## 👤 Autores
 
 **Elimelec Ricardo** — Universidad del Magdalena
 
