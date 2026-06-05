@@ -25,7 +25,7 @@ Aplicación web de salud y bienestar pensada para **acompañarte, escucharte y o
 - Recibir **información, acompañamiento emocional y recomendaciones** ajustadas a su nivel de riesgo.
 - Usar de forma adecuada y oportuna los servicios de salud de **promoción y prevención**.
 
-> ⚠️ **Aviso médico:** Esta herramienta **no reemplaza** la valoración, consulta ni recomendaciones de un profesional de la salud. Ante cualquier síntoma o duda, consulta a tu EPS o médico tratante.
+> **Aviso médico:** Esta herramienta **no reemplaza** la valoración, consulta ni recomendaciones de un profesional de la salud. Ante cualquier síntoma o duda, consulta a tu EPS o médico tratante.
 
 ---
 
