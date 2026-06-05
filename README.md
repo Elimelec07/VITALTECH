@@ -29,26 +29,26 @@ Aplicación web de salud y bienestar pensada para **acompañarte, escucharte y o
 
 ---
 
-## ✨ Características
+##  Características
 
 | Módulo | Descripción |
 |---|---|
-| 🔐 **Acceso y registro** | Inicio de sesión por tipo y número de documento, con aceptación de términos y condiciones. |
-| 🩺 **Test de Diabetes e Hipertensión** | Cuestionario de tamizaje para estimar el nivel de riesgo cardiometabólico. |
-| 🧠 **Test Psicológico** | Evaluación de bienestar emocional con orientación según resultados. |
-| 📋 **Mi Historia Clínica** | Registro y consulta del historial de salud del usuario. |
-| 🔥 **Consejos de Prevención** | Recomendaciones prácticas de hábitos saludables. |
-| 🏃 **Deportes** | Sugerencias de actividad física para complementar la prevención. |
-| 💬 **Asistente Virtual de Salud** | Chatbot de apoyo (basado en reglas) que orienta sobre salud física, emocional y derivación en situaciones de crisis. |
-| 🔔 **Notificaciones inteligentes** | Tips diarios, recordatorios de tests y alertas personalizadas según el historial. |
-| 👤 **Perfil de usuario** | Datos personales y foto de perfil. |
-| 🛠️ **Panel de administración** | Acceso protegido para gestión interna. |
-| 🌓 **Tema claro / oscuro** | Cambio de apariencia adaptable. |
-| 📱 **Diseño responsive** | Enfoque *mobile-first* con barra de navegación inferior. |
+|  **Acceso y registro** | Inicio de sesión por tipo y número de documento, con aceptación de términos y condiciones. |
+|  **Test de Diabetes e Hipertensión** | Cuestionario de tamizaje para estimar el nivel de riesgo cardiometabólico. |
+|  **Test Psicológico** | Evaluación de bienestar emocional con orientación según resultados. |
+|  **Mi Historia Clínica** | Registro y consulta del historial de salud del usuario. |
+|  **Consejos de Prevención** | Recomendaciones prácticas de hábitos saludables. |
+|  **Deportes** | Sugerencias de actividad física para complementar la prevención. |
+|  **Asistente Virtual de Salud** | Chatbot de apoyo (basado en reglas) que orienta sobre salud física, emocional y derivación en situaciones de crisis. |
+|  **Notificaciones inteligentes** | Tips diarios, recordatorios de tests y alertas personalizadas según el historial. |
+|  **Perfil de usuario** | Datos personales y foto de perfil. |
+|  **Panel de administración** | Acceso protegido para gestión interna. |
+|  **Tema claro / oscuro** | Cambio de apariencia adaptable. |
+|  **Diseño responsive** | Enfoque *mobile-first* con barra de navegación inferior. |
 
 ---
 
-## 🛠️ Tecnologías
+##  Tecnologías
 
 - **HTML5** — estructura semántica de las vistas.
 - **CSS3** — estilos, animaciones y diseño responsive.
@@ -61,7 +61,7 @@ Aplicación web de salud y bienestar pensada para **acompañarte, escucharte y o
 
 ---
 
-## 📂 Estructura del proyecto
+##  Estructura del proyecto
 
 ```
 VitalTech/
@@ -94,7 +94,7 @@ VitalTech/
 
 ---
 
-## 🚀 Ejecutar en local
+##  Ejecutar en local
 
 Al ser un sitio estático, basta con clonar el repo y abrirlo en el navegador:
 
@@ -108,7 +108,7 @@ cd VitalTech/vitaltech_web
 
 Luego, **abre `index.html`** directamente en tu navegador.
 
-> 💡 **Recomendado:** sírvelo con un servidor local para que las rutas y el almacenamiento funcionen correctamente:
+>  **Recomendado:** sírvelo con un servidor local para que las rutas y el almacenamiento funcionen correctamente:
 > ```bash
 > # Con Python
 > python -m http.server 8000
@@ -119,21 +119,21 @@ Luego, **abre `index.html`** directamente en tu navegador.
 
 ---
 
-## 🌐 Despliegue
+##  Despliegue
 
 La aplicación está desplegada en **Vercel**:
 
-👉 **[brazalete.vercel.app](https://brazalete.vercel.app)**
+ **[brazalete.vercel.app](https://brazalete.vercel.app)**
 
 ---
 
-## 🔒 Privacidad de datos
+##  Privacidad de datos
 
 El tratamiento de la información personal se rige por la **Ley 1581 de 2012** de Colombia, relativa a la protección de datos personales. Los datos del usuario se almacenan localmente en el navegador y se usan únicamente con fines de orientación en salud dentro de la aplicación.
 
 ---
 
-## 🗺️ Mejoras futuras
+##  Mejoras futuras
 
 - [ ] Migrar la autenticación y el panel admin a un **backend seguro** (actualmente la validación es del lado del cliente, solo para demostración).
 - [ ] Persistencia en base de datos para historia clínica y resultados de tests.
@@ -143,21 +143,21 @@ El tratamiento de la información personal se rige por la **Ley 1581 de 2012** d
 
 ---
 
-## 👤 Autores
+##  Autores
 
 **Elimelec Ricardo** — Universidad del Magdalena
 
-- 📧 [elimelecjoser@gmail.com](mailto:elimelecjoser@gmail.com)
-- 📱 [+57 321 815 4994](tel:+573218154994) · [WhatsApp](https://wa.me/573218154994)
+-  [elimelecjoser@gmail.com](mailto:elimelecjoser@gmail.com)
+-  [+57 321 815 4994](tel:+573218154994) · [WhatsApp](https://wa.me/573218154994)
 
 **Juan Orozco** — Universidad del Magdalena
 
-- 📧 [juanorozcop75@gmail.com](mailto:juanorozcop75@gmail.com)
-- 📱 [+57 324 443 6617](tel:+573244436617) · [WhatsApp](https://wa.me/573244436617)
+-  [juanorozcop75@gmail.com](mailto:juanorozcop75@gmail.com)
+-  [+57 324 443 6617](tel:+573244436617) · [WhatsApp](https://wa.me/573244436617)
 
 ---
 
-## 📄 Licencia
+##  Licencia
 
 Distribuido bajo la licencia **MIT**. Consulta el archivo `LICENSE` para más información.
 
